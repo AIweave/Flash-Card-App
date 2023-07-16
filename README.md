@@ -8,6 +8,6 @@ Check Button - Starts the app and changes card into a new one.
 
 Screenshots
 
-![Timer Setting](https://github.com/AIweave/flashy.github.io/assets/121763338/304ddb1b-3ca5-4bec-919d-7bb2cf864595)
-![Questions](https://github.com/AIweave/flashy.github.io/assets/121763338/a47f6827-ce21-4d8b-adcb-8df29ac70ffa)
-![Answers](https://github.com/AIweave/flashy.github.io/assets/121763338/09aa9c71-45aa-43b6-bd39-1a38baca336b)
+![Timer Setting](https://github.com/AIweave/flashy.github.io/assets/121763338/811a124b-fbdf-48f7-9bb9-c96b2398a757)
+![Questions](https://github.com/AIweave/flashy.github.io/assets/121763338/6c0174df-0e53-462d-a420-35788a54b582)
+![Answers](https://github.com/AIweave/flashy.github.io/assets/121763338/23fea8db-31fb-4dc0-99e5-52294596048a)
