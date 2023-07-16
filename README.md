@@ -3,7 +3,9 @@ A Flash Card App specifically designed for improving memory in a given subject b
 Controls
 
 When opening the app, choose the amount of seconds the timer will count down from before flipping (revealing) the other side of the card which has the answer.
+
 Reveal - This button will appears after the timer has count down to zero. Once pressed, the card is flipped to reveal the answer.
+
 Check Button - Starts the app and changes card into a new one.
 
 Screenshots
